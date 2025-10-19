@@ -121,7 +121,7 @@ Hệ thống **SSB 1.0** mang lại lợi ích đồng bộ cho tất cả các 
 - NFR7: Khả năng phục hồi – Hệ thống phải tự động khôi phục khi mất kết nối GPS/Internet.  
 
 📌 **Biểu đồ Use Case:**  
-![Biểu đồ Use-Case](image/usecase1-2.png)
+![Biểu đồ Use-Case](/image/usecase1-2.png)
 
 ---
 
@@ -282,4 +282,4 @@ Hệ thống **SSB 1.0** mang lại lợi ích đồng bộ cho tất cả các 
 | **Ngoại lệ**      | 1a. GPS không khả dụng → 'Không xác định được trễ'. |
 
 📌 **Biểu đồ Use Case tổng quan:**  
-![Biểu đồ Use Case](image/usecase1-3.png)
+![Biểu đồ Use Case](/image/usecase1-3.png)
